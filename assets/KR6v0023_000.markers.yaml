@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6v0023/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6v0023_ZW_000-0133a, ed: ZW, 'n': 0133a, source_xml_id: ZW02.0017.0133a}
   - {type: line-break, offset: 0, content: '', id: KR6v0023_ZW_000-0133a01, ed: ZW, 'n': 0133a01}
   - {type: line-break, offset: 0, content: '', id: KR6v0023_ZW_000-0133a02, ed: ZW, 'n': 0133a02}
@@ -3038,6 +3038,5 @@ markers:
   - {type: substitution, offset: 7361, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 7364, content: 〕, id: KR6v0023_ZW_000-bkkpn2125}
   - {type: xml-element, offset: 7364, content: '', id: pZW02p0165a1001_end, name: p, role: close, attrs: {'xml:id': pZW02p0165a1001}}
-  body: []
   back: []
-hash: sha256:bd3332eea8650b25065610aa55a3f1294f2127d991bf9853d857cbd22d331590
+hash: sha256:807877cd0a9a73808887c54aa0e19c26dd686713427a5210bd4faf21f2c6ce6f

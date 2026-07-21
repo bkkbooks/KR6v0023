@@ -19,15 +19,15 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0023_000-ZW.yaml, hash: 'sha256:68862a790bf23f0802207b52bcee0da7cb08b43dc0d2c30ed0e958d0fe19254c'}
+  - {seq: 0, filename: KR6v0023_000-ZW.yaml, hash: 'sha256:d96f77ffad9c1822f712a0f7c55eb2b606d1c01b13b82214a094be9ac206ce3a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0023_000-ZW.markers.yaml, hash: 'sha256:5392f2c46ac5fc8daffec6323679a76b8b91cd14b5c86b64c7d37f5cde194488'}
+  - {seq: 0, role: markers, filename: assets/KR6v0023_000-ZW.markers.yaml, hash: 'sha256:0483e3ab8c0fb589b71ff12654a8c3da893793106dd8066c0536a0b7273dca13'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0023_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -37,10 +37,10 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0023_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 483
     - 483
   label: 錄文
   type: mulu
   level: 1
-hash: sha256:a64a81d1c1ca2063da63ec5ba87e920feaed5cd9281bbe6b1d5d6ed2567f4f9d
+hash: sha256:d2c31d7af8236a7486ec9f3f5d86e875412d4b5b1b9db417da297dc31124bffa
